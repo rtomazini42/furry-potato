@@ -1,2 +1,2 @@
-# furry-potato
+# Repositorio publico
 sete de julho
