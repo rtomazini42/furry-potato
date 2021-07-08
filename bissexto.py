@@ -10,5 +10,3 @@ def ehbissexto(n):
         return False
 
 
-print(ehbissexto(200))
-print(ehbissexto(2000))
